@@ -1,6 +1,8 @@
 ## Social
 > Dreams to be rich suddendly
+
 & Play with me ->
+
 ![](https://img.shields.io/badge/Marno-join-s?style=social&logo=Steam)
 ![](https://img.shields.io/badge/万有引力与航天-join-s?style=social&logo=Music)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marno-o.Marno-o)
