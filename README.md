@@ -1,16 +1,25 @@
-### Hi there 👋
+## Social
+> Dreams to be rich suddendly
+& Play with me ->
+![](https://img.shields.io/badge/Marno-join-s?style=social&logo=Steam)
+![](https://img.shields.io/badge/万有引力与航天-join-s?style=social&logo=Music)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Marno-o.Marno-o)
 
-<!--
-**Marno-o/Marno-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚘 Working for 三百云.co
+- ⚡ Fun fact: CSGO / LOL / Cyberpunk
+- 🎓 Graduation: Hei-Bei University
 
-Here are some ideas to get you started:
+## Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marno-o&layout=compact" />
+</a>
+
+<a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
+</a>
+
+
+
+## Other
+仙侠世界爱好者，世界观受番茄影响，曾经想要设计一款国风仙侠游戏，学偏了学到敲代码上去了
