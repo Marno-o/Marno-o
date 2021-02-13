@@ -13,13 +13,14 @@
 
 ## Code
 
-<a>
-    <img align="right" src="https://github-readme-stats-indol-ten.vercel.app/api/top-langs/?username=Marno-o&layout=compact" />
-</a>
+![java](https://img.shields.io/badge/-java-<COLOR>?style=for-the-badge&logo=java&logoColor=&labelColor=0E6EB4&color=0E8AC8)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=24ABF2)
+![Idea](https://img.shields.io/badge/-IDEA-%23007ACC?style=for-the-badge&logo=intellij-idea&labelColor=black&color=087CFA)
+![Idea](https://img.shields.io/badge/-grafana-%23007ACC?style=for-the-badge&logo=grafana&labelColor=black&color=F46800)
 
-
 <a>
-    <img src="https://github-readme-stats-indol-ten.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
+    <img align="right" src="https://github-readme-stats-indol-ten.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
 </a>
 
 
