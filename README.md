@@ -22,6 +22,10 @@
 ![Idea](https://img.shields.io/badge/-IDEA-%23007ACC?style=for-the-badge&logo=intellij-idea&labelColor=black&color=087CFA)
 ![grafana](https://img.shields.io/badge/-grafana-%23007ACC?style=for-the-badge&logo=grafana&labelColor=black&color=F46800)
 
+![mysql](https://img.shields.io/badge/-mysql-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray&color=00758F)
+![centos](https://img.shields.io/badge/-centos-%23007ACC?style=for-the-badge&logo=centos&labelColor=931C98&color=EFA71A)
+![docker](https://img.shields.io/badge/-docker-%23007ACC?style=for-the-badge&logo=docker&logoColor=white&color=2496EC)
+
 
 ## Other
 仙侠世界爱好者，世界观受番茄影响，曾经想要设计一款国风仙侠游戏，学偏了学到敲代码上去了
