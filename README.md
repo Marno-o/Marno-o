@@ -14,11 +14,12 @@
 ## Code
 
 <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marno-o&layout=compact" />
+    <img align="right" src="https://github-readme-stats-indol-ten.vercel.app/api/top-langs/?username=Marno-o&layout=compact" />
 </a>
 
+
 <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
+    <img src="https://github-readme-stats-indol-ten.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
 </a>
 
 
