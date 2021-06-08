@@ -15,7 +15,7 @@
 
 <img align="right" src="https://github-readme-stats-indol-ten.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-<COLOR>?style=for-the-badge&logo=Jenkins
+![jenkins](https://img.shields.io/badge/-jenkins-<COLOR>?style=for-the-badge&logo=jenkins)
 
 ![Java](https://img.shields.io/badge/-java-<COLOR>?style=for-the-badge&logo=java&logoColor=&labelColor=0E6EB4&color=0E8AC8)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
