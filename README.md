@@ -1,6 +1,6 @@
 # Marno🇨🇳
 
-<img width=28% align="right" src="https://raw.githubusercontent.com/Marno-o/Pic-bed/master/ByTheSea.jpeg?token=AHJAG5QGTFWAQ6NWTVVDXNDAZZFUA" />
+<img width=28% align="right" src="https://assets.che300.com/wiki/2021-01-01/ByTheSea.jpeg" />
 
 ## > Social
 > Dreams to be rich suddendly
