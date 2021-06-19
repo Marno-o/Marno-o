@@ -1,9 +1,9 @@
 # Marno🇨🇳
+
+<img width=28% align="right" src="https://raw.githubusercontent.com/Marno-o/Pic-bed/master/ByTheSea.jpeg?token=AHJAG5QGTFWAQ6NWTVVDXNDAZZFUA" />
+
 ## > Social
 > Dreams to be rich suddendly
-
-<img align="right" src="https://github-readme-stats-indol-ten.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
-
 
 & Play with me ->
 
@@ -13,9 +13,15 @@
 
 - 💼  Working for [三百云.co](www.sanbaiyun.com)
 - 🛠  Post: Java Dev.  Devops. 
+- 📍 Living in NanJing
 - 🎓  Graduation: Hei-Bei University
 - 🐱  My cats: Dokasira; Huntun
 - ⚡ Fun fact: CSGO / LOL / Cyberpunk / Monster Hunter / Minecraft
+
+
+## > My Github
+
+<img align="right" src="https://github-readme-stats-indol-ten.vercel.app/api?username=Marno-o&show_icons=true&hide=prs,contribs" />
 
 
 ## > Technology stack
