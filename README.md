@@ -11,9 +11,13 @@
 ![](https://img.shields.io/badge/万有引力与航天-join-s?style=social&logo=Music)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marno-o.Marno-o)
 
-- 💼  Working for [三百云.co](www.sanbaiyun.com)
-- 🛠  Post: Java Dev.  Devops. 
-- 📍 Living in NanJing
+- 💼 Working for myself now. 
+    - Worked for [三百云.CO](www.sanbaiyun.com)(2020.01-2022.01)
+- 🛠  Major: 
+    - Java Dev(PE).  
+    - Devops(SRE).
+    - FD 
+- 📍 Location: NanJing
 - 🎓  Graduation: Hei-Bei University
 - 🐱  My cats: Dokasira; Huntun
 - ⚡ Fun fact: CSGO / LOL / Cyberpunk / Monster Hunter / Minecraft
