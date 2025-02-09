@@ -12,12 +12,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marno-o.Marno-o)
 
 - 💼 Working for myself now. 
-    - Worked for [三百云.CO](www.sanbaiyun.com)(2020.01-2022.01)
+    - Worked for [三百云.CO](www.sanbaiyun.com)(2020.01-2024.11)
+    - Working for [LUXEED🚗](https://hima.auto/zhijie)(2024.12-)
 - 🛠  Major: 
     - Java Dev(PE).  
     - Devops(SRE).
     - FD 
-- 📍 Location: NanJing
+- 📍 Location: WuHu/NanJing
 - 🎓  Graduation: Hei-Bei University
 - 🐱  My cats: Dokasira; Huntun
 - ⚡ Fun fact: CSGO / LOL / Cyberpunk / Monster Hunter / Minecraft
