@@ -11,9 +11,9 @@
 ![](https://img.shields.io/badge/万有引力与航天-join-s?style=social&logo=Music)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marno-o.Marno-o)
 
-- 💼 Working for myself now. 
-    - Worked for [三百云.CO](www.sanbaiyun.com)(2020.01-2024.11)
+- 💼 Working for myself now.
     - Working for [LUXEED🚗](https://hima.auto/zhijie)(2024.12-)
+    - Worked for [三百云.CO](www.sanbaiyun.com)(2020.01-2024.11)
 - 🛠  Major: 
     - Java Dev(PE).  
     - Devops(SRE).
@@ -58,3 +58,4 @@
 
 ## > Other
 仙侠世界爱好者，世界观受番茄影响，曾经想要设计一款国风仙侠游戏，学偏了学到敲代码上去了
+> 谁能想到现在又在成了汽车工程师呢
